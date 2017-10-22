@@ -1,0 +1,1 @@
+alert('The code embedded in the external.js.');
